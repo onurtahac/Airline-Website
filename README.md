@@ -5,9 +5,13 @@
 
 ✈️ Ana Özellikler:
 1-)Kullanıcı girişi ve üye olma ekranı.
+
 2-)Admin tarafından Bilet kontrolü yapılabilen bir ekran.
+
 3-)Hızlı ve Güvenli Rezervasyon Sistemi: Anında bilet rezervasyonları yapın.
+
 4-)Kullanıcı Dostu Arayüz: Kolay gezinme ve bilgiye hızlı erişim.
+
 5-)Güncel Uçuş Bilgileri.
 
 Detaylı Bakış: 
@@ -20,6 +24,8 @@ Detaylı Bakış:
      -> About Sayfası butonu 
      -> Contact Sayfası butonu
      -> Login Sayfası butonu
+
+
 2-) Ansayfada navbar kısmının altında Slider bölümü bulunmakta.
      -> 5 adet Fotoğraf 4 saniye arayla sürekli olarak gösterilmekte. 
 
