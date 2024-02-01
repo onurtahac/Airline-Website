@@ -3,6 +3,8 @@
  Modern tasarım anlayışıyla kullanıcıların ihtiyaçlarına uygun,sezgisel bir arayüzle yolculuk planlarınızı düzenleyebilir,
  bilet rezervasyonlarınızı yapabilir ve seyahat deneyiminizi kişiselleştirebilirsiniz.
 
+![localhost_44383_ (2)](https://github.com/onurtahac/Airline-Website/assets/126058092/0c73af2a-5e08-4e13-94c8-fafaf0b87116)
+
 ✈️ Ana Özellikler:
 1-)Kullanıcı girişi ve üye olma ekranı.
 
