@@ -64,8 +64,8 @@ Detaylı Bakış:
 4-) Payment kısımında ise çeşitli ödeme yöntemleri ile ödeme almakta ve başarılı giriş yapılması durumunda ekrana br mesaj iletmekteyiz. 
 
 
-
-  
+Full kod haline aşağıdaki google drive linkinden erişim sağlayabilirsiniz.
+  https://drive.google.com/drive/u/0/folders/16MstMeAHiXRZ-mkTsFIRvZyT-oeegwPR
 
      
 
